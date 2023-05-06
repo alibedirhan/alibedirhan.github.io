@@ -1033,6 +1033,7 @@ section.home.light .social-icons li a:hover {
 
 .pf-filter-wrapper {
   display: none;
+  bottom: 20px;
 }
 
 .portfolio-item {
